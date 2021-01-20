@@ -1,0 +1,1 @@
+Имя бота @conversion_moneybot
